@@ -2,7 +2,7 @@
 Shane Sepeda
 
 # Description
-
+Weekly planner used to manage daily tasks efficiently
 
 # User Story
 AS AN employee with a busy schedule
