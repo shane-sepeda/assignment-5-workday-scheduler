@@ -25,9 +25,13 @@ WHEN I refresh the page
 THEN the saved events persist
 
 # assets
-
+HTML (index.html)
+CSS (assets/css/style.css)
+JS (assets/js/script.css)
 # Screenshot
-
+(assets/images/screenshot.png)
 # Repository
+https://github.com/shane-sepeda/assignment-5-workday-scheduler
 
 # Deployed webpage
+https://shane-sepeda.github.io/assignment-5-workday-scheduler
